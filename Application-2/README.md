@@ -1,4 +1,4 @@
-# [Unity/C#] Finite State Machines
+# [Unity/C#] Hierarchical Finite State Machines
 
 
 ![thumbnail01](imgs/thumbnail01.png)
