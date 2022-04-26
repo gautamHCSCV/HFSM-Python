@@ -78,7 +78,6 @@ Another issue concerns design problems, such as the structuring and modularizati
 
 Similarly, suppose that we have a test model of a system in the form of a large FSM; for example, we produced recently automatically such a model for a large Lucent enterprise switch from the test platform in use for the testing of the switch [EY00]; the FSM model has hundreds of thousands of states. The model can be used for targeted test generation to meet a variety of criteria.
 </br></br>
-Codes for all the applications are uploaded in the below github repository  : https://github.com/gautamHCSCV/HFSM-Python
-</br></br>
-(OUTPUTS FOR EACH APPLICATION ARE MENTIONED IN THE RESPECTIVE READ.ME FILES PRESENT IN THE GITHUB REPOSITORY)
+
+(OUTPUTS FOR EACH APPLICATION ARE MENTIONED IN THE RESPECTIVE READ.ME FILES PRESENT IN THE CORRESPONDING FOLDERS)
 
